@@ -39,13 +39,13 @@ http://localhost:3001/
 ```
 
 ## Below is a link to the GitHub repository   
-[Teacher Grade Book](https://github.com/mattkohl82/Teachers-Grading-Book.git)    
+[Teacher Grade Book](https://github.com/rhmorganjr/Teachers-Grading-Book.git)    
 
 ### Heroku deployment page 
 [Teacher Grade Book](https://rocky-sea-29203.herokuapp.com/) 
 
 
-### Main Page Mackup
+### Main Page Mockup
 
 ![Main Page](./src/mainpage.jpg)
 
@@ -53,8 +53,8 @@ http://localhost:3001/
 ![Single Class](./src/singleclass.jpg)   
 
 ## Questions
-### [Mattkohl82 for GitHub](https://github.com/Mattkohl82)  
-### mattkohl82@gmail.com for ✉️ email 
+### [rhmorganjr for GitHub](https://github.com/rhmorganjr)  
+### rhmorganjr@gmail.com for ✉️ email 
 
 
   ## License
