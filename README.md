@@ -52,12 +52,13 @@ http://localhost:3001/
 
 ![Single Class](./src/singleclass.jpg)   
 
-## Questions
-### [rhmorganjr for GitHub](https://github.com/rhmorganjr)  
+## Questions 
 ### rhmorganjr@gmail.com for ✉️ email 
 
+## Portfolio
+### https://rhmorganjr.github.io/portfolio/
 
-  ## License
+## License
 
 
   Copyright (c) 2020 Teachers Grading Book
